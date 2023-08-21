@@ -6,7 +6,7 @@ To use this script, you will need to have Node.js installed on your system. Once
 
 ``` npm install ```
 
-#Prerequisites
+## Prerequisites
 
 This script requires the Node.js modules. You can install these modules by running the following command in your terminal:
 
