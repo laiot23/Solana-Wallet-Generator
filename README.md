@@ -12,7 +12,7 @@ This script requires the Node.js modules. You can install these modules by runni
 
 ```npm install coinkey crypto fs readline @solana/web3.js```
 
-Disclaimer:
+## Disclaimer:
 
 The code provided in this repository carries no explicit or implied guarantees. It is your sole responsibility to determine how you will utilize this code. I absolve myself of any responsibility or liability for the use of the source code contained herein. Your decision to use any files from this repository implies your agreement to utilize them at your own discretion. I emphasize that all materials offered here are intended exclusively for educational and research purposes. It is strongly discouraged to employ this script for any unlawful or unethical activities, given the exceedingly low likelihood of success.
 
