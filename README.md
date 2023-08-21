@@ -5,6 +5,7 @@ Generate Solana wallets programmatically with this simple script. Create wallets
 To use this script, you will need to have Node.js installed on your system. Once you have Node.js installed, clone this repository and navigate to the project directory. Then, run the following command to install the required dependencies:
 
 ``` npm install ```
+
 Prerequisites
 
 This script requires the Node.js modules. You can install these modules by running the following command in your terminal:
