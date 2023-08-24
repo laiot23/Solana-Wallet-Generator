@@ -1,6 +1,10 @@
 # Solana-Wallet-Generator
 Generate Solana wallets programmatically with this simple script. Create wallets and obtain public addresses effortlessly. Integrate it into your user console to offer wallet creation as a service to your users. This includes a Node.js script that generates a single Solana address along with private keys and saves them to a file. Users can access their wallet on their console UI, protected by an email login (We have implemented the same practices currently used by Helium Mobile for its personal console users, which has a built-in wallet service for user accounts)."
 
+
+![image](https://github.com/laiot23/Solana-Wallet-Generator/assets/142753464/25d23113-30ec-4263-8ba0-8d2595bfa6ee)
+
+
 ## Installation
 To use this script, you will need to have Node.js installed on your system. Once you have Node.js installed, clone this repository and navigate to the project directory. Then, run the following command to install the required dependencies:
 
